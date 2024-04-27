@@ -10,6 +10,6 @@ pandas==1.4.1
 scikit-learn==1.0.2
 green==3.4.1
 black
-torch==1.10.2
+torch==1.13.1
 pytorch-lightning
 graphviz==0.16
